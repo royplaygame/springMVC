@@ -7,6 +7,16 @@
 <title>Insert title here</title>
 </head>
 <body>
+		<a href="springmvc/testRedirect">TestRedirect</a>
+		<br />
+		<br />
+		<a href="springmvc/testView">TestView</a>
+		<br />
+		<br />
+		<a href="springmvc/testViewAndViewResolver">TestViewAndViewResolver</a>
+		<br />
+		<br />
+
 	<!--  
 		模拟修改操作
 		1. 原始数据为: 1, Tom, 123456,tom@126.com,16
